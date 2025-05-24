@@ -11,7 +11,7 @@ A smart bin made with an Arduio Uno.
   8. MG996R High Torque motor <br/>
      *not all components shown for final version* <br/> <br/>
 ## **Functionalities** <br/>
-  1. Open bin cover when someone is present. *complete* <br/>
+  1. Open bin cover when someone is present.  *completed* <br/>
   2. Built-in LEDs inside of the bin, which are turned on in certain hours. <br/>
   3. Small OLED screen on top of the bin, which shows how full it is. <br/>
   4. Send a message to the user's phone about how full the bin is via Bluetooth/Wi-Fi. <br/>
