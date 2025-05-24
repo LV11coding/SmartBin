@@ -9,7 +9,8 @@ A smart bin made with an Arduio Uno.
   6. USB A to Female DC Terminal cable <br/>
   7. USB B to USB A cable <br/>
   8. MG996R High Torque motor <br/>
-     *not all components shown for final version* <br/> <br/>
+  9. HC-05/HC-06 Bluetooth module
+     *not all components are shown needed for the final version* <br/> <br/>
 ## **Functionalities** <br/>
   - [x] 1. Open bin cover when someone is present. <br/>
   - [ ] 2. Built-in LEDs inside of the bin, which are turned on in certain hours. <br/>
