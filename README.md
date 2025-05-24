@@ -20,7 +20,7 @@ A smart bin made with an Arduio Uno.
 ## **Instructions** <br/>
   *Most of the process is self-explanatory, but some parts might need an explanation.* <br/>
   Instead of buying a DC Terminal adapter, you can: <br/>
-    1. Cut open a normal USB A cable. <br/>
+  - 1. Cut open a normal USB A cable. <br/>
     2. You'll find 4 smaller cables. (VCC, GND, DATA+, DATA-) <br/>
     3. Solder the VCC and GND cables to a normal jumper wire. (ignore DATA cables since only power is needed) <br/>
   Since the ground the motor have to share a common ground, connect a GND pin from the Arduino to the breadboard where the GND from the cable is connected. <br/> <br/>
