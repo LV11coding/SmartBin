@@ -1,5 +1,5 @@
 # SmartBin <br/>
-A smart bin made with an Arduio Uno.
+A smart bin made with an Arduino Uno.
 ## **Components** <br/>
   1. Some form of a bin with a cover.
   2. Arduino Uno <br/>
